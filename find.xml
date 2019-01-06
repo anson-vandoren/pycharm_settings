@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="LocalScope" />
-    <option name="defaultScopeName" value="LocalScope" />
-    <option name="SEARCH_SCOPE" value="LocalScope" />
+    <option name="customScope" value="File '.../ccgains/historic_data.py [ccGains]'" />
+    <option name="defaultScopeName" value="File '.../ccgains/historic_data.py [ccGains]'" />
+    <option name="SEARCH_SCOPE" value="File '.../ccgains/historic_data.py [ccGains]'" />
   </component>
 </application>
