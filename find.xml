@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ccgains/historic_data.py [ccGains]'" />
-    <option name="defaultScopeName" value="File '.../ccgains/historic_data.py [ccGains]'" />
-    <option name="SEARCH_SCOPE" value="File '.../ccgains/historic_data.py [ccGains]'" />
+    <option name="customScope" value="Module 'binance-monitor'" />
+    <option name="defaultScopeName" value="Module 'binance-monitor'" />
+    <option name="SEARCH_SCOPE" value="Module 'binance-monitor'" />
   </component>
 </application>
