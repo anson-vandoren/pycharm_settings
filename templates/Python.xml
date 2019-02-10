@@ -1,5 +1,5 @@
 <templateSet group="Python">
-  <template name="resp" value="response = self.client.$method$(&#10;                $endpoint$,&#10;                data=json.dumps({&quot;email&quot;: &quot;$email$&quot;, &quot;password&quot;: &quot;$password$&quot;}),&#10;                content_type=&quot;application/json&quot;,&#10;            )" description="Response object" toReformat="false" toShortenFQNames="true">
+  <template name="prsp" value="response = self.client.$method$(&#10;                $endpoint$,&#10;                data=json.dumps({&quot;email&quot;: &quot;$email$&quot;, &quot;password&quot;: &quot;$password$&quot;}),&#10;                content_type=&quot;application/json&quot;,&#10;            )" description="Response object" toReformat="false" toShortenFQNames="true">
     <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="endpoint" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="email" expression="" defaultValue="" alwaysStopAt="true" />
