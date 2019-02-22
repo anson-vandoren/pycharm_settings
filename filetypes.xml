@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
+      <mapping pattern="Dockerfile-stage" type="Dockerfile" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
