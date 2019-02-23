@@ -7,6 +7,7 @@
       <mapping pattern="Dockerfile-stage" type="Dockerfile" />
       <mapping pattern="base" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
     </extensionMap>
