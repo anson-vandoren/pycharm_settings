@@ -13,6 +13,7 @@
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
+      <mapping ext="hcl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
