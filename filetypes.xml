@@ -2,18 +2,19 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="Dockerfile-dev" type="Dockerfile" />
-      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping pattern="Dockerfile-stage" type="Dockerfile" />
-      <mapping pattern="base" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="secrets" type="PLAIN_TEXT" />
-      <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
+      <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping pattern="test_game" type="PLAIN_TEXT" />
+      <mapping pattern="base" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="vault" type="PLAIN_TEXT" />
+      <mapping pattern="secrets" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
+      <removed_mapping pattern="middlewares.py" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
