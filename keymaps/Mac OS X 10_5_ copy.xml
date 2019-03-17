@@ -1,6 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Console.TableResult.CompareCells" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta numpad4" />
+  </action>
   <action id="Tool_External Tools_Black">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
