@@ -13,6 +13,8 @@
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern="test_game" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="dicks" type="PLAIN_TEXT" />
       <mapping pattern="vault" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
