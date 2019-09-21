@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="erl_tidy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="erl_tidy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/erl" />
       <option name="PARAMETERS" value="-s erl_tidy dir -run init stop" />
