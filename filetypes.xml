@@ -25,7 +25,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="test_engine_trade" type="Python" />
-      <mapping ext="conf" type="nginx file type" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="middlewares.py" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -35,6 +34,7 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
